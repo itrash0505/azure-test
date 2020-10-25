@@ -10,6 +10,3 @@ app.get('/', function (req, res) {
 app.listen(3000, function () {
   console.log('App is now listening asdf on port 3000!');
 });
-
-// now the server startedasfs s fsf sd 
-// this is test this is test adfasdf dsf sdf sdaf dsfa sfas asdfasfs
