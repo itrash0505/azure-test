@@ -13,5 +13,5 @@
         "*": ["node_modules/*"]
       }
     },
-    "include": ["server/server.ts"]
+    "include": ["server.ts"]
   }
